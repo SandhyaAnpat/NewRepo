@@ -1,0 +1,7 @@
+ProductID,ProductName,Category,Price,StockQuantity
+101,Widget A,Widgets,20.00,100
+102,Widget B,Widgets,25.00,150
+103,Gadget A,Gadgets,25.00,200
+104,Gadget B,Gadgets,30.00,250
+105,Thingamajig,Thingamajigs,25.00,300
+
